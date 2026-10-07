@@ -1,0 +1,300 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Original miniature illustrations. Each symbol occupies an 80 × 80 canvas. -->
+  <symbol id="teapot" viewBox="0 0 80 80">
+    <title>青瓷茶壺</title>
+    <g stroke="#493d2e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M55 32C78 24 78 56 57 56L56 50C70 51 72 33 58 38Z" fill="#83a998"/>
+      <path d="M24 39C14 39 13 29 6 30L10 39C12 45 13 49 26 50Z" fill="#87afa1"/>
+      <path d="M24 33C16 39 18 61 30 65C39 69 54 66 59 58C65 47 58 32 54 31Z" fill="#7da693"/>
+      <path d="M27 35C22 47 25 58 34 61" fill="none" stroke="#b8cbbb" stroke-width="4"/>
+      <path d="M25 61Q42 70 58 60L55 66Q40 73 28 66Z" fill="#5f8d7b"/>
+      <path d="M24 32Q38 24 54 31L57 35Q39 41 22 36Z" fill="#abc2ac"/>
+      <path d="M34 27Q30 22 38 21Q47 21 44 27" fill="#688f7c"/>
+      <path d="M35 50Q43 42 49 51Q44 60 35 50Z" fill="#c8c7a2" stroke-width="1.1"/>
+      <path d="M37 51Q43 51 46 47M42 48L41 55" fill="none" stroke="#6c8873" stroke-width="1"/>
+      <path d="M34 15C28 10 37 10 34 5M45 17C39 12 48 12 44 7" fill="none" stroke="#d5cab0" stroke-width="1.8"/>
+    </g>
+  </symbol>
+  <symbol id="fan" viewBox="0 0 80 80">
+    <title>山水摺扇</title>
+    <g stroke="#584534" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M39 66L5 31Q34 -1 73 28L39 66Z" fill="#e9d6aa"/>
+      <path d="M5 31L9 26Q38 -3 73 28L66 34Q37 10 13 36Z" fill="#bd6248"/>
+      <path d="M39 66L13 28M39 66L24 21M39 66L36 17M39 66L49 18M39 66L61 22M39 66L69 29" stroke="#beaa78" stroke-width="1"/>
+      <path d="M17 39L25 31L33 38L41 27L48 34L56 29L62 37L45 49L32 48Z" fill="#7b9380" stroke="none"/>
+      <path d="M21 45L34 41L40 45L51 39L55 42L40 58Z" fill="#a6ad88" stroke="none"/>
+      <path d="M33 48Q40 44 44 47Q41 51 45 52L39 58" fill="none" stroke="#f3e3ba" stroke-width="2"/>
+      <circle cx="52" cy="25" r="3" fill="#bc6749" stroke="none"/>
+      <path d="M7 32L38 66L71 29" fill="none" stroke="#815736" stroke-width="3.5"/>
+      <circle cx="39" cy="65" r="2.7" fill="#d8a954"/>
+      <path d="M40 68Q48 70 44 75M42 73L48 76M42 73L44 78" fill="none" stroke="#b8553c"/>
+    </g>
+  </symbol>
+  <symbol id="lantern" viewBox="0 0 80 80">
+    <title>團圓紅燈籠</title>
+    <g stroke="#633f2a" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M39 4V13" fill="none"/>
+      <rect x="28" y="12" width="24" height="7" rx="2" fill="#b89551"/>
+      <path d="M28 19C7 23 9 51 28 57H52C71 51 73 23 52 19Z" fill="#b84f38"/>
+      <path d="M28 20C17 30 18 47 29 57M51 20C63 30 62 47 51 57" fill="none" stroke="#e2a064"/>
+      <path d="M34 20C28 31 28 48 34 57M45 20C51 31 51 48 45 57" fill="none" stroke="#d8774b" stroke-width="1.4"/>
+      <path d="M16 30Q40 36 65 30M16 45Q40 49 64 44" fill="none" stroke="#923e2f" stroke-width="1.1"/>
+      <path d="M40 26L50 38L40 50L30 38Z" fill="#dfb562" stroke="#f0c477" stroke-width="1"/>
+      <path d="M36 33H44M40 31V43M36 37H44M36 42H44" stroke="#a64f32" stroke-width="1.5"/>
+      <rect x="28" y="57" width="24" height="6" rx="1.5" fill="#b89551"/>
+      <path d="M40 64V68M40 68L35 76M40 68V77M40 68L45 76" fill="none" stroke="#b94e36" stroke-width="2.5"/>
+      <circle cx="40" cy="68" r="2" fill="#dfb866" stroke="none"/>
+    </g>
+  </symbol>
+  <symbol id="basket" viewBox="0 0 80 80">
+    <title>竹編提籃</title>
+    <g stroke="#645037" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M20 40C13 3 65 3 59 40" fill="none" stroke="#745837" stroke-width="6"/>
+      <path d="M20 38C17 8 61 8 59 38" fill="none" stroke="#c2a16a" stroke-width="2.6"/>
+      <path d="M22 39L16 28Q22 23 31 37L33 19Q45 20 42 38L54 21Q65 27 51 42Z" fill="#8a9a6e"/>
+      <path d="M23 31L28 40M38 25L37 40M56 27L47 39" fill="none" stroke="#b2bb87" stroke-width="1.4"/>
+      <path d="M12 38Q39 31 68 38L61 66Q41 75 19 66Z" fill="#c49a59"/>
+      <path d="M16 44Q42 50 65 43M17 52Q42 58 63 51M19 60Q42 66 62 59" fill="none" stroke="#84623b" stroke-width="1.5"/>
+      <path d="M22 41L28 68M31 42L35 69M42 42V69M52 41L48 69M60 40L56 67" stroke="#e0bc76" stroke-width="2"/>
+      <path d="M12 37Q40 44 68 37L67 43Q39 50 14 43Z" fill="#d2af6e"/>
+      <path d="M22 66Q41 73 60 65" fill="none" stroke="#e4c68a" stroke-width="2"/>
+      <path d="M17 47L21 49M25 49L29 50M34 51L38 51M44 51L48 50M53 49L57 48" fill="none" stroke="#6d5b41" stroke-width="1"/>
+    </g>
+  </symbol>
+  <symbol id="kite" viewBox="0 0 80 80">
+    <title>燕子風箏</title>
+    <g stroke="#4d4a36" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M39 32C28 17 16 13 5 15L19 42L34 38L39 50L44 38L62 40L76 13C58 13 47 20 39 32Z" fill="#506f69"/>
+      <path d="M10 18L23 36L35 35Q24 20 10 18ZM69 17L58 35L44 35Q55 22 69 17Z" fill="#dcb66f"/>
+      <path d="M15 21L25 30L22 33M64 20L54 29L58 32" fill="none" stroke="#b65c42" stroke-width="2.5"/>
+      <path d="M35 29Q39 20 44 29L45 42L52 56L40 49L29 57L35 43Z" fill="#b45d44"/>
+      <path d="M35 32Q40 36 44 31M36 38Q40 42 44 37" fill="none" stroke="#ebcf8d"/>
+      <circle cx="38" cy="28" r="1" fill="#f3d99c" stroke="none"/>
+      <circle cx="42" cy="28" r="1" fill="#f3d99c" stroke="none"/>
+      <path d="M40 50C33 58 49 57 42 66S30 67 35 75" fill="none" stroke="#8c7852" stroke-width="1.2"/>
+      <path d="M42 60L37 56L38 63ZM41 67L47 64L46 71Z" fill="#b96749" stroke-width="1"/>
+    </g>
+  </symbol>
+  <symbol id="scroll" viewBox="0 0 80 80">
+    <title>墨香書卷</title>
+    <g stroke="#645039" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M20 10L63 17L55 66L11 58Z" fill="#e3cf9d"/>
+      <path d="M23 14L58 20L51 58L16 52Z" fill="#efe0b7" stroke="#bca273" stroke-width="1"/>
+      <path d="M19 5L67 13Q70 14 69 18Q68 22 65 21L17 13Q14 12 15 9Q15 5 19 5Z" fill="#a27644"/>
+      <path d="M15 10L66 18" stroke="#d1a766" stroke-width="2.4"/>
+      <path d="M12 53L59 61Q64 62 62 67Q61 71 56 70L9 62Q6 61 7 57Q8 53 12 53Z" fill="#a27644"/>
+      <path d="M10 58L59 66" stroke="#d1a766" stroke-width="2.8"/>
+      <path d="M41 23L49 25M46 22L44 30M41 29L47 30M37 35L46 36M40 33L39 41M37 42L45 40M30 25L34 27M31 23L29 33M24 38L33 40M28 36L25 45M23 46L31 44" fill="none" stroke="#6f7156" stroke-width="1.5"/>
+      <rect x="41" y="46" width="6" height="7" transform="rotate(10 44 49.5)" fill="#b46142" stroke="none"/>
+      <path d="M33 65Q34 73 42 69L45 76" fill="none" stroke="#af5340" stroke-width="2"/>
+    </g>
+  </symbol>
+  <symbol id="lute" viewBox="0 0 80 80">
+    <title>月下琵琶</title>
+    <g stroke="#563f2b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M43 6L53 10L49 23L42 42C46 48 50 57 44 66C38 76 19 74 13 64C7 54 18 44 27 40L39 21Z" fill="#be8951"/>
+      <path d="M36 39C30 46 12 50 17 63C22 73 39 69 42 62C45 53 35 46 36 39Z" fill="#dec38b" stroke="#ac814a" stroke-width="1.1"/>
+      <path d="M41 18L48 21L40 45L34 43Z" fill="#846a45"/>
+      <path d="M42 5L51 8L48 17L40 14Z" fill="#7b5840"/>
+      <path d="M51 11L58 13M49 17L56 19M39 12L34 10M38 19L33 17" stroke="#8b623c" stroke-width="3.8"/>
+      <path d="M43 17L26 62M45 18L29 62M47 19L32 62" fill="none" stroke="#f4dfa4" stroke-width="0.9"/>
+      <path d="M24 63L35 65" stroke="#5d4930" stroke-width="3.5"/>
+      <path d="M39 26L46 29M38 31L44 33M36 36L42 38" stroke="#c9ab71"/>
+      <path d="M20 52Q26 48 28 51M34 57Q38 55 39 58" fill="none" stroke="#a27b47" stroke-width="1.3"/>
+      <path d="M26 70L21 75M29 71L30 77" fill="none" stroke="#b75f43" stroke-width="2"/>
+    </g>
+  </symbol>
+  <symbol id="incense" viewBox="0 0 80 80">
+    <title>小銅香爐</title>
+    <g stroke="#5e4e36" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M24 44C7 34 7 55 22 55M56 44C73 34 73 55 59 55" fill="none" stroke="#967b45" stroke-width="5"/>
+      <path d="M26 60L24 71L31 71L34 63M47 64L50 71L57 71L54 59" fill="#9b7e48"/>
+      <path d="M20 42Q39 35 61 42L57 60Q42 73 24 61Z" fill="#a68a51"/>
+      <path d="M22 45Q42 52 59 45" fill="none" stroke="#d4ba78" stroke-width="2.7"/>
+      <path d="M31 56Q40 48 50 56Q40 64 31 56Z" fill="#728b73"/>
+      <path d="M36 56H44M40 53V59" stroke="#bcac72" stroke-width="1.2"/>
+      <ellipse cx="40" cy="41" rx="21" ry="5" fill="#ceb87c"/>
+      <ellipse cx="40" cy="40" rx="16" ry="2.8" fill="#6c6450" stroke="none"/>
+      <path d="M32 40L28 23M40 40V20M47 40L51 24" fill="none" stroke="#86673d"/>
+      <path d="M28 23L27 19M40 20V16M51 24L52 20" stroke="#b75e43" stroke-width="2.7"/>
+      <path d="M29 15C24 10 31 9 28 5M41 12C46 6 35 8 39 2M53 16C49 12 57 9 54 6" fill="none" stroke="#c4bfa1" stroke-width="1.7"/>
+    </g>
+  </symbol>
+  <symbol id="peach" viewBox="0 0 80 80">
+    <title>吉祥壽桃</title>
+    <g stroke="#71543a" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M36 29C29 11 9 15 10 15C11 30 21 35 36 29Z" fill="#8b9b60"/>
+      <path d="M39 27C41 10 60 7 69 12C62 25 49 29 39 27Z" fill="#729173"/>
+      <path d="M13 18L34 28M42 24L63 14" fill="none" stroke="#b8bd7e" stroke-width="1.3"/>
+      <path d="M38 27L41 12" fill="none" stroke="#896140" stroke-width="3"/>
+      <path d="M39 27C26 18 11 31 12 46C12 62 25 69 40 72C57 69 69 59 67 44C66 29 51 22 39 27Z" fill="#d9a47d"/>
+      <path d="M39 29C28 36 33 42 40 49C43 53 43 63 40 69" fill="none" stroke="#bf785d" stroke-width="2"/>
+      <path d="M25 30C17 34 16 44 20 50" fill="none" stroke="#efc8a0" stroke-width="5"/>
+      <path d="M53 35Q66 45 58 56" fill="none" stroke="#c48669" stroke-width="4"/>
+      <path d="M19 58Q26 66 35 66" fill="none" stroke="#d39a76" stroke-width="2"/>
+    </g>
+  </symbol>
+  <symbol id="fish" viewBox="0 0 80 80">
+    <title>丹紅錦鯉</title>
+    <g stroke="#76503b" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M56 42L72 28L68 44L75 58L55 53Z" fill="#c37951"/>
+      <path d="M57 46L69 36M58 49L69 53" stroke="#e1ae72" stroke-width="1.3"/>
+      <path d="M31 30L37 18L45 21L51 34" fill="#c2704d"/>
+      <path d="M32 54L35 65L48 58" fill="#d59360"/>
+      <path d="M9 42C20 18 46 26 61 45C53 64 27 68 10 50L6 47Z" fill="#e7ce9b"/>
+      <path d="M10 42C13 35 20 31 27 30C32 39 24 44 25 57C19 56 14 54 10 50L6 47Z" fill="#b96043" stroke="none"/>
+      <path d="M35 31C44 32 51 37 55 42C51 49 45 45 41 50C35 50 40 38 35 31Z" fill="#b96043" stroke="none"/>
+      <path d="M25 49Q34 39 44 47L34 57Z" fill="#d9a363"/>
+      <path d="M29 49L36 51M33 47L39 48" stroke="#ac7548" stroke-width="1"/>
+      <circle cx="17" cy="41" r="3.4" fill="#eddbaf" stroke="none"/>
+      <circle cx="17" cy="41" r="1.8" fill="#493e2c" stroke="none"/>
+      <path d="M8 48Q9 52 5 55M10 49Q6 46 4 49" fill="none" stroke-width="1"/>
+      <path d="M27 33L30 36M47 53L50 55M51 49L54 51" stroke="#b0a070" stroke-width="1"/>
+    </g>
+  </symbol>
+  <symbol id="cat" viewBox="0 0 80 80">
+    <title>打盹橘貓</title>
+    <g stroke="#684c35" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M51 40C72 26 78 46 71 61C67 69 59 73 49 67" fill="none" stroke="#805334" stroke-width="11"/>
+      <path d="M51 40C72 26 78 46 71 61C67 69 59 73 49 67" fill="none" stroke="#ca9757" stroke-width="7.5"/>
+      <path d="M37 36C54 31 64 51 59 65C55 75 28 75 25 64L26 46Z" fill="#ce9b5b"/>
+      <path d="M36 48C43 46 49 61 44 70L31 69L30 51Z" fill="#e5c791" stroke="none"/>
+      <path d="M12 24L12 8L27 17L37 16L49 8L48 28C58 46 14 52 10 36Z" fill="#d6a567"/>
+      <path d="M16 23V14L23 21M39 21L45 14L44 25" fill="#b66f50" stroke="none"/>
+      <path d="M25 20L27 27M31 19L31 26M37 20L35 27" stroke="#9b663e" stroke-width="2.4"/>
+      <path d="M17 33Q21 37 25 32M35 32Q39 36 43 31" fill="none"/>
+      <path d="M26 38L32 37L30 40Z" fill="#9e664d" stroke="none"/>
+      <path d="M30 40Q26 44 24 41M30 40Q33 43 36 40M12 39L5 37M13 42L6 43M45 37L54 34M45 41L54 41" fill="none" stroke-width="1.1"/>
+      <path d="M47 48L55 46M49 55L58 53M49 63L58 61" stroke="#9b663e" stroke-width="3"/>
+      <path d="M30 69L30 63M38 71L39 65" fill="none"/>
+      <path d="M28 71H41" stroke="#e9cc95" stroke-width="2"/>
+    </g>
+  </symbol>
+  <symbol id="birdcage" viewBox="0 0 80 80">
+    <title>畫眉鳥籠</title>
+    <g stroke="#695338" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M38 11C28 7 41 -2 44 6Q46 11 40 14" fill="none"/>
+      <path d="M18 30Q20 15 40 14Q60 15 62 30V64H18Z" fill="#daca9a" fill-opacity=".45"/>
+      <path d="M17 62Q40 58 63 62V69Q40 77 17 69Z" fill="#a1844d"/>
+      <path d="M19 66Q40 72 61 66" fill="none" stroke="#d9bc77" stroke-width="1.3"/>
+      <path d="M26 57H55M27 45L29 47" fill="none" stroke="#987544" stroke-width="2.4"/>
+      <path d="M30 44L25 34L35 39Q40 27 49 35Q54 36 52 44Q47 54 36 49L26 55Z" fill="#8a8b61"/>
+      <path d="M48 38L58 39L51 43" fill="#c7a259"/>
+      <path d="M33 42Q38 39 43 44Q40 49 33 46Z" fill="#afad76" stroke-width="1.1"/>
+      <path d="M45 36L50 35" stroke="#e6d8aa" stroke-width="1.6"/>
+      <circle cx="48" cy="38" r="1.2" fill="#433d2b" stroke="none"/>
+      <path d="M39 50V55M44 49L46 55" fill="none" stroke-width="1"/>
+      <path d="M18 30H62M19 60H61M27 24V64M39 19V64M52 24V64" fill="none" stroke="#b39459" stroke-width="1.8"/>
+      <path d="M18 30Q40 35 62 30M17 63Q40 69 63 63" fill="none" stroke="#6c5739"/>
+    </g>
+  </symbol>
+  <symbol id="umbrella" viewBox="0 0 80 80">
+    <title>杏花油紙傘</title>
+    <g stroke="#685039" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M42 29L34 66Q31 78 22 70" fill="none" stroke="#795a36" stroke-width="3.5"/>
+      <path d="M42 10L44 5" stroke="#816542" stroke-width="3"/>
+      <path d="M5 37Q11 15 43 10Q66 21 76 48Q68 43 58 47Q50 39 40 42Q31 35 22 41Q13 34 5 37Z" fill="#c48352"/>
+      <path d="M43 11Q27 19 22 40Q30 35 40 42Q39 25 43 11Z" fill="#dfb47a" stroke="none"/>
+      <path d="M43 11Q55 24 58 47Q67 43 76 48Q66 21 43 11Z" fill="#d49c63" stroke="none"/>
+      <path d="M6 37L43 11L76 48M43 11Q27 19 22 40M43 11Q39 24 40 42M43 11Q55 24 58 47" fill="none" stroke="#8d6a45" stroke-width="1.1"/>
+      <path d="M42 38L50 29L59 28M47 33L46 27M53 29L55 24" fill="none" stroke="#74583e" stroke-width="1.3"/>
+      <g fill="#ecd1a0" stroke="none">
+        <circle cx="46" cy="26" r="3"/><circle cx="55" cy="23" r="2.8"/><circle cx="58" cy="28" r="3.1"/><circle cx="49" cy="32" r="2.7"/>
+      </g>
+      <g fill="#ba6b46" stroke="none"><circle cx="46" cy="26" r="1"/><circle cx="55" cy="23" r="1"/><circle cx="58" cy="28" r="1"/><circle cx="49" cy="32" r="1"/></g>
+      <path d="M5 37Q13 34 22 41Q31 35 40 42Q50 39 58 47Q68 43 76 48" fill="none" stroke-width="2"/>
+    </g>
+  </symbol>
+  <symbol id="dumpling" viewBox="0 0 80 80">
+    <title>熱騰騰蒸餃</title>
+    <g stroke="#746147" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <ellipse cx="40" cy="56" rx="32" ry="17" fill="#adc0a3"/>
+      <ellipse cx="40" cy="54" rx="27" ry="12" fill="#dae0bb" stroke="#7f9c88" stroke-width="1"/>
+      <path d="M15 48C16 24 29 22 36 22C45 22 61 30 66 48C57 64 29 63 15 48Z" fill="#ead9b2"/>
+      <path d="M16 46L22 44L23 33L29 39L30 26L36 35L38 23L43 36L48 27L49 40L56 35L55 45L63 43" fill="none" stroke="#b7a376" stroke-width="1.6"/>
+      <path d="M16 48Q38 67 64 49" fill="none" stroke="#d1bd90" stroke-width="3"/>
+      <path d="M27 47Q34 51 42 49" fill="none" stroke="#f4e9ca" stroke-width="4"/>
+      <path d="M23 19C18 14 27 13 24 8M38 17C33 11 43 10 39 4M53 22C47 17 57 15 53 10" fill="none" stroke="#c3bca3" stroke-width="1.8"/>
+      <path d="M59 59L67 62M58 62L63 65" fill="none" stroke="#6c966f" stroke-width="2"/>
+    </g>
+  </symbol>
+  <symbol id="lotus" viewBox="0 0 80 80">
+    <title>初開荷花</title>
+    <g stroke="#74604a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M40 46Q44 58 37 73" fill="none" stroke="#6e8a5e" stroke-width="3"/>
+      <path d="M39 62C26 49 11 51 7 64C20 73 34 74 44 63Z" fill="#839d72"/>
+      <path d="M42 62C57 48 70 56 73 65C62 73 48 74 39 65Z" fill="#96a777"/>
+      <path d="M11 64L35 63M15 58L35 63M20 70L35 63M44 64L68 65M44 64L62 59M44 64L58 70" fill="none" stroke="#bbbe84" stroke-width="1"/>
+      <path d="M39 48C18 49 10 32 11 24C25 24 33 32 39 48Z" fill="#ca917f"/>
+      <path d="M40 48C62 49 70 32 69 24C53 24 46 33 40 48Z" fill="#c58475"/>
+      <path d="M40 48C25 47 20 25 24 15C38 23 42 31 40 48Z" fill="#e4b09a"/>
+      <path d="M40 48C56 47 62 27 56 15C43 22 38 34 40 48Z" fill="#d9a28d"/>
+      <path d="M40 49C27 41 29 21 40 6C51 21 54 40 40 49Z" fill="#ecd0ab"/>
+      <path d="M40 42V15M25 23Q27 39 36 44M55 24Q53 39 45 44" fill="none" stroke="#d79c85" stroke-width="1.2"/>
+      <path d="M31 47Q40 39 50 47Q40 53 31 47Z" fill="#b49955" stroke="#8e854f" stroke-width="1.1"/>
+      <circle cx="36" cy="47" r="1" fill="#e7cc75" stroke="none"/><circle cx="41" cy="45" r="1" fill="#e7cc75" stroke="none"/><circle cx="46" cy="47" r="1" fill="#e7cc75" stroke="none"/>
+    </g>
+  </symbol>
+  <symbol id="jar" viewBox="0 0 80 80">
+    <title>桂花酒罈</title>
+    <g stroke="#5d4532" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M26 22L23 34C10 43 14 64 25 69Q40 78 57 69C69 63 67 43 55 34L52 22Z" fill="#876e4e"/>
+      <path d="M23 39C17 45 18 59 25 65" fill="none" stroke="#ad946a" stroke-width="4"/>
+      <path d="M26 25Q40 30 54 25L51 18L28 17Z" fill="#684d36"/>
+      <path d="M21 17L29 11L54 13L59 20L54 27L45 25L35 29L27 25L21 27Z" fill="#b55940"/>
+      <path d="M26 20Q41 25 55 19M27 25Q40 29 54 24" fill="none" stroke="#d09955" stroke-width="2"/>
+      <path d="M48 23L57 36L61 32L53 22" fill="#b55940"/>
+      <path d="M28 42L48 39L54 59L32 63Z" fill="#d9bc7e"/>
+      <path d="M36 45L46 43M40 43L39 55M34 50L46 48M36 57L47 54" fill="none" stroke="#8c5036" stroke-width="1.7"/>
+      <path d="M25 70Q41 74 55 69" fill="none" stroke="#544837" stroke-width="2"/>
+    </g>
+  </symbol>
+  <symbol id="abacus" viewBox="0 0 80 80">
+    <title>木珠算盤</title>
+    <g stroke="#5e4230" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M10 14L72 22L64 69L3 60Z" fill="#966340"/>
+      <path d="M16 21L65 27L59 61L10 54Z" fill="#d1bb88"/>
+      <path d="M16 21L12 55M26 22L21 56M36 23L31 58M46 25L41 59M56 26L51 60M64 27L59 61" fill="none" stroke="#604d36" stroke-width="1.2"/>
+      <path d="M10 34L64 41" stroke="#5e4230" stroke-width="4"/>
+      <path d="M10 33L64 40" stroke="#bb8d56" stroke-width="1.4"/>
+      <g fill="#825636" stroke-width="1">
+        <ellipse cx="25" cy="28" rx="3.7" ry="3" transform="rotate(8 25 28)"/>
+        <ellipse cx="35" cy="29.5" rx="3.7" ry="3" transform="rotate(8 35 29.5)"/>
+        <ellipse cx="45" cy="31" rx="3.7" ry="3" transform="rotate(8 45 31)"/>
+        <ellipse cx="55" cy="32" rx="3.7" ry="3" transform="rotate(8 55 32)"/>
+        <ellipse cx="23" cy="43" rx="3.7" ry="2.8" transform="rotate(8 23 43)"/>
+        <ellipse cx="22" cy="49" rx="3.7" ry="2.8" transform="rotate(8 22 49)"/>
+        <ellipse cx="33" cy="42" rx="3.7" ry="2.8" transform="rotate(8 33 42)"/>
+        <ellipse cx="32" cy="48" rx="3.7" ry="2.8" transform="rotate(8 32 48)"/>
+        <ellipse cx="31" cy="54" rx="3.7" ry="2.8" transform="rotate(8 31 54)"/>
+        <ellipse cx="43" cy="46" rx="3.7" ry="2.8" transform="rotate(8 43 46)"/>
+        <ellipse cx="42" cy="52" rx="3.7" ry="2.8" transform="rotate(8 42 52)"/>
+        <ellipse cx="53" cy="44" rx="3.7" ry="2.8" transform="rotate(8 53 44)"/>
+        <ellipse cx="52" cy="50" rx="3.7" ry="2.8" transform="rotate(8 52 50)"/>
+        <ellipse cx="51" cy="56" rx="3.7" ry="2.8" transform="rotate(8 51 56)"/>
+      </g>
+      <path d="M13 18L68 25M6 58L62 66" fill="none" stroke="#bd915a" stroke-width="1.5"/>
+      <circle cx="11" cy="18" r="1" fill="#d9b66f" stroke="none"/><circle cx="66" cy="65" r="1" fill="#d9b66f" stroke="none"/>
+    </g>
+  </symbol>
+  <symbol id="flute" viewBox="0 0 80 80">
+    <title>竹林短笛</title>
+    <g stroke="#695237" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M11 57L63 12Q67 9 70 14L72 18Q73 21 70 24L18 68Q15 71 12 67L9 63Q7 60 11 57Z" fill="#c2aa63"/>
+      <path d="M11 59L67 13" fill="none" stroke="#e1ce8b" stroke-width="2.4"/>
+      <path d="M17 68L71 22" fill="none" stroke="#9b864d" stroke-width="1.2"/>
+      <path d="M14 55L21 64M57 18L65 28" stroke="#756b3f" stroke-width="3"/>
+      <path d="M16 53L23 62M59 16L67 26" stroke="#e3c487" stroke-width="1"/>
+      <g fill="#574d32" stroke="none">
+        <ellipse cx="54" cy="28" rx="2.6" ry="1.7" transform="rotate(-40 54 28)"/>
+        <ellipse cx="45" cy="36" rx="2.1" ry="1.5" transform="rotate(-40 45 36)"/>
+        <ellipse cx="39" cy="41" rx="2.1" ry="1.5" transform="rotate(-40 39 41)"/>
+        <ellipse cx="33" cy="46" rx="2.1" ry="1.5" transform="rotate(-40 33 46)"/>
+        <ellipse cx="27" cy="51" rx="2.1" ry="1.5" transform="rotate(-40 27 51)"/>
+      </g>
+      <path d="M62 26Q61 40 72 40Q76 39 72 35Q67 32 66 40L63 61" fill="none" stroke="#a9513c" stroke-width="1.8"/>
+      <path d="M63 60L58 70M63 60L63 72M63 60L68 70" stroke="#b76145" stroke-width="2.6"/>
+      <circle cx="63" cy="59" r="2.5" fill="#b19752"/>
+    </g>
+  </symbol>
+</svg>
