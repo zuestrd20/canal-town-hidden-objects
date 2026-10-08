@@ -1,0 +1,78 @@
+{
+  "testedCommit": "0a3f9594b6cc3ed948daee7ba3d595e35e95218f",
+  "url": "https://zuestrd20.github.io/canal-town-hidden-objects/",
+  "workflowRun": 37785741958,
+  "build": "success",
+  "deploy": "success",
+  "desktopViewport": {
+    "width": 1180,
+    "height": 757
+  },
+  "narrowViewport": {
+    "width": 400,
+    "height": 604,
+    "method": "Separate cloud Chromium window resized with native controls and 125% browser zoom; not physical mobile emulation"
+  },
+  "legalUiWins": [
+    {
+      "level": "canal",
+      "targets": 8,
+      "stars": 2,
+      "hints": 1,
+      "misses": 0
+    },
+    {
+      "level": "tea",
+      "targets": 8,
+      "stars": 3,
+      "hints": 0,
+      "misses": 0
+    },
+    {
+      "level": "lantern",
+      "targets": 8,
+      "stars": 3,
+      "hints": 0,
+      "misses": 1
+    },
+    {
+      "level": "daily 2026-10-08 tea",
+      "targets": 6,
+      "stars": 3,
+      "hints": 0,
+      "misses": 0
+    },
+    {
+      "level": "canal narrow",
+      "targets": 8,
+      "stars": 3,
+      "hints": 0,
+      "misses": 0
+    }
+  ],
+  "collection": "18/18 unlocked",
+  "verifiedFlows": [
+    "pause freezes timer at 00:32",
+    "reload and resume keeps 2/8 finds",
+    "hint centers target at 210% zoom",
+    "hint cooldown disables immediately",
+    "max zoom 400% disables zoom-in",
+    "drag does not count as a miss",
+    "repeated click on found target does not score or miss",
+    "background miss gives friendly feedback",
+    "new-run cancellation retains original challenge and 1/8 progress",
+    "help dialog pauses challenge",
+    "hint re-enables after active cooldown",
+    "no app-origin console errors in checked log sample",
+    "actual challenge expiry at 3 minutes with 1/8 found",
+    "relaxed retry after failure reaches 8/8 narrow win"
+  ],
+  "stateInjection": false,
+  "pending": [],
+  "publicReleaseMetadata": "Commit matches 0a3f9594b6cc3ed948daee7ba3d595e35e95218f",
+  "publicAssets": "All 3 WebP URLs HTTP 200, exact byte counts and SHA256 match local manifest",
+  "limits": [
+    "No physical touch device or Safari test",
+    "No game-state injection"
+  ]
+}
